@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Appium/java-client-5.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/selenium/selenium-java-3.6.0/client-combined-3.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/selenium/selenium-java-3.6.0/client-combined-3.6.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/selenium/selenium-java-3.6.0/libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/selenium/selenium-java-3.6.0/libs/byte-buddy-1.7.5.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/selenium/selenium-java-3.6.0/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/selenium/selenium-java-3.6.0/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/selenium/selenium-java-3.6.0/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/selenium/selenium-java-3.6.0/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/selenium/selenium-java-3.6.0/libs/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/selenium/selenium-java-3.6.0/libs/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/selenium/selenium-java-3.6.0/libs/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/selenium/selenium-java-3.6.0/libs/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/selenium/selenium-java-3.6.0/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/selenium/selenium-java-3.6.0/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/selenium/selenium-java-3.6.0/libs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/selenium/selenium-java-3.6.0/libs/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/poi/poi-bin-3.17-20170915/poi-3.17/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/poi/poi-bin-3.17-20170915/poi-3.17/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/poi/poi-bin-3.17-20170915/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/poi/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/poi/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/poi/poi-bin-3.17-20170915/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/poi/poi-bin-3.17-20170915/poi-3.17/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/poi/poi-bin-3.17-20170915/poi-3.17/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/others/ashot-1.4.10.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/others/AutoItX4Java.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/others/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/others/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/others/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/others/commons-lang3-3.6/commons-lang3-3.6.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/others/commons-lang3-3.6/commons-lang3-3.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/others/commons-lang3-3.6/commons-lang3-3.6-sources.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/others/commons-lang3-3.6/commons-lang3-3.6-tests.jar"/>
+	<classpathentry kind="lib" path="E:/SeleniumProjects/Jars Hub/Jars/others/commons-lang3-3.6/commons-lang3-3.6-test-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
